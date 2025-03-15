@@ -1,0 +1,7 @@
+langchain_ollama
+langchain_community
+langchain
+ipykernel
+langgraph
+dotenv
+wikipedia
